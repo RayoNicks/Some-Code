@@ -4,5 +4,5 @@ using namespace dtd;
 
 int main()
 {
-	cout<<
+	cout<<"Hello World"<<endl;
 }
